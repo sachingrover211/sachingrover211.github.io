@@ -39,6 +39,12 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
+    
+    <div id="publications" style="margin-bottom: 3rem;"></div>
+    <h3 class="post-title">publications</h3>
+    <div class="publications">
+    {% bibliography %}
+    </div>
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}

@@ -2,24 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Looking for full-time opportunities Research and Engineering Positions
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: sachin_grover.png
+  address: >
+    <p>sachin.grover @ asu . edu</p>
+    <p><a target="_blank" href = "/assets/pdf/Sachin Grover -- Resume.pdf">Curriculum Vitae</a>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+:wave: Hello, I am Sachin Grover, thank you for stopping by!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a research scientist at [PARC](https://www.sri.com/research/future-concepts-division/){:target="\_blank"}, part of SRI International. My research interests are in llm based agents, and combining planning and learning techniques/systems. 
+At PARC, I was part of several DARPA projects -- [SAIL-ON](https://www.darpa.mil/program/science-of-artificial-intelligence-and-learning-for-open-world-novelty){:target="\_blank"} (open-world AI agents), [KMASS](https://www.darpa.mil/program/knowledge-management-at-scale-and-speed){:target="\_blank"} (knowledge management) and [EMHAT](https://www.darpa.mil/program/exploratory-moldels-of-human-ai-teams){:target="\_blank"} (human-ai multi-agent collaboration teams). 
+Previously, I have also worked as an applied scientist intern at Amazon Alexa research on language model quantization and compression techniques.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My Ph.D. was oriented towards designing Human-Aware AI techniques using Automated Task Planning for collaboration in Human-Robot teams and was advised by [Prof. Subbarao Kambhampati](https://rakaposhi.eas.asu.edu){:target="\_blank"}.
+
+I did my Masters at Arizona State University, advised by [Prof. Kurt VanLehn](https://www.public.asu.edu/~kvanlehn/){:target="\_blank"}, on modeling student's knowledge while working on Intelligent Tutoring System.
+
+:point_right: Currently, I am looking for __full-time opportunities__ in research and engineering roles.
+
+__Research Interest__: LLM Agents, Learning+Planning systems, Neurosymbolic techniques.
+
+##### Research
+My research focuses on designing human-aware techniques and systems utilizing recent improvements in LLMs, planning techniques, and other learning methods.
+I am also interested in solving real-world complex problems and creating interpretable systems that provide explanations with guarantees utilizing machine learning and AI-planning techniques.
+My work in the past has been published in refereed journals (AIJ, HCI, IEEE, Taylor & Francis, etc.) and several peer-reviewed conferences (International Conference of Automated Planning and Scheduling _ICAPS_, Human-Robot Interaction _HRI_, AI & Education _AIED_, Naturalistic Decision Making _NDM_, etc.) and workshops (Knowledge Engineering for Planning and Scheduling _ICAPS KEPS_, Explainability and AI _ICAPS XAIP_, ML for Public Health _NEURIPS MLPH_), etc. A list of my publications can be checked below.
