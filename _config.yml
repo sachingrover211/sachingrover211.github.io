@@ -110,7 +110,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Thank you for stopping by! Best way to reach me is through e-mail. Looking forward to talking to you.
+  Thank you for stopping by! Best way to reach me is through e-mail -- sachin . grover @ asu . edu (remove spaces). Looking forward to talking to you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -300,7 +300,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Griver]
+  last_name: [Grover]
   first_name: [Sachin, S.]
 
   style: apa

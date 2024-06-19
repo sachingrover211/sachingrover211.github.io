@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 :wave: Hello, I am Sachin Grover, thank you for stopping by!
 
-I am a research scientist at [PARC](https://www.sri.com/research/future-concepts-division/){:target="\_blank"}, part of SRI International. My research interests are in llm based agents, and combining planning and learning techniques/systems. 
+I am a research scientist at [PARC](https://www.sri.com/research/future-concepts-division/){:target="\_blank"}, part of SRI International. My research interests are in LLM based agents, and combining planning and learning techniques/systems.
 At PARC, I was part of several DARPA projects -- [SAIL-ON](https://www.darpa.mil/program/science-of-artificial-intelligence-and-learning-for-open-world-novelty){:target="\_blank"} (open-world AI agents), [KMASS](https://www.darpa.mil/program/knowledge-management-at-scale-and-speed){:target="\_blank"} (knowledge management) and [EMHAT](https://www.darpa.mil/program/exploratory-moldels-of-human-ai-teams){:target="\_blank"} (human-ai multi-agent collaboration teams). 
 Previously, I have also worked as an applied scientist intern at Amazon Alexa research on language model quantization and compression techniques.
 
