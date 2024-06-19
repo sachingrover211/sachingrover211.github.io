@@ -26,7 +26,9 @@ My Ph.D. was oriented towards designing Human-Aware AI techniques using Automate
 
 I did my Masters at Arizona State University, advised by [Prof. Kurt VanLehn](https://www.public.asu.edu/~kvanlehn/){:target="\_blank"}, on modeling student's knowledge while working on Intelligent Tutoring System.
 
-:point_right: Currently, I am looking for __full-time opportunities__ in research and engineering roles.
+:point_right: Currently, I am looking for __full-time opportunities__ in research and engineering roles. 
+
+:mailbox_with_mail: sachin . grover @ asu . edu (remove spaces)
 
 __Research Interest__: LLM Agents, Learning+Planning systems, Neurosymbolic techniques.
 
