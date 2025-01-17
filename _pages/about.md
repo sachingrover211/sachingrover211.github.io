@@ -18,13 +18,14 @@ social: true # includes social icons at the bottom of the page
 
 :wave: Hello, I am Sachin Grover, thank you for stopping by!
 
-I am a research scientist at [PARC](https://www.sri.com/research/future-concepts-division/){:target="\_blank"}, part of SRI International. My research interests are in LLM based agents, and combining planning and learning techniques/systems.
-At PARC, I was part of several DARPA projects -- [SAIL-ON](https://www.darpa.mil/program/science-of-artificial-intelligence-and-learning-for-open-world-novelty){:target="\_blank"} (open-world AI agents), [KMASS](https://www.darpa.mil/program/knowledge-management-at-scale-and-speed){:target="\_blank"} (knowledge management) and [EMHAT](https://www.darpa.mil/program/exploratory-moldels-of-human-ai-teams){:target="\_blank"} (human-ai multi-agent collaboration teams).
+I am a Post-Doctoral Researcher at [Interactive Robotics Laboratory](https://interactive-robotics.engineering.asu.edu/){:target="\_blank"}, [Arizona State University (ASU)](https://scai.engineering.asu.edu/){:target="\_blank"} working with [Prof. Heni Ben Amor](https://henibenamor.weebly.com/){:target="\_blank"}, where I am exploring LLM as learning machines for guiding robots in the environment.
+In the past I have worked as a research scientist at [PARC](https://www.sri.com/research/future-concepts-division/){:target="\_blank"}, part of SRI International. My research interests are in LLM based agents, and combining planning and learning techniques/systems.
+At PARC, I was part of several DARPA projects -- [SAIL-ON](https://www.darpa.mil/program/science-of-artificial-intelligence-and-learning-for-open-world-novelty){:target="\_blank"} (open-world AI agents), [KMASS](https://www.darpa.mil/program/knowledge-management-at-scale-and-speed){:target="\_blank"} (knowledge management) and [EMHAT](https://www.darpa.mil/program/exploratory-moldels-of-human-ai-teams){:target="\_blank"} (human-ai multi-agent collaboration teams). 
 Previously, I have also worked as an applied scientist intern at Amazon Alexa research on language model quantization and compression techniques.
 
-My Ph.D. was oriented towards designing Human-Aware AI techniques using Automated Task Planning for collaboration in Human-Robot teams and was advised by [Prof. Subbarao Kambhampati](https://rakaposhi.eas.asu.edu){:target="\_blank"}.
+My Ph.D. at ASU, was oriented towards designing Human-Aware AI techniques using Automated Task Planning for collaboration in Human-Robot teams and was advised by [Prof. Subbarao Kambhampati](https://rakaposhi.eas.asu.edu){:target="\_blank"}.
 
-I did my Masters at Arizona State University, advised by [Prof. Kurt VanLehn](https://www.public.asu.edu/~kvanlehn/){:target="\_blank"}, on modeling student's knowledge while working on Intelligent Tutoring System.
+I did my Masters at ASU, advised by [Prof. Kurt VanLehn](https://www.public.asu.edu/~kvanlehn/){:target="\_blank"}, on modeling student's knowledge while working on Intelligent Tutoring System.
 
 :point_right: Currently, I am looking for **full-time opportunities** in research and engineering roles.
 
