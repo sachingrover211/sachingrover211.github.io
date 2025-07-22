@@ -16,25 +16,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-:wave: Hello, I am Sachin Grover, thank you for stopping by!
-
-I am a Post-Doctoral Researcher at [Interactive Robotics Laboratory](https://interactive-robotics.engineering.asu.edu/){:target="\_blank"}, [Arizona State University (ASU)](https://scai.engineering.asu.edu/){:target="\_blank"} working with [Prof. Heni Ben Amor](https://henibenamor.weebly.com/){:target="\_blank"}, where I am exploring LLM as learning machines for guiding robots in the environment.
-In the past I have worked as a research scientist at [PARC](https://www.sri.com/research/future-concepts-division/){:target="\_blank"}, part of SRI International. My research interests are in LLM based agents, and combining planning and learning techniques/systems.
-At PARC, I was part of several DARPA projects -- [SAIL-ON](https://www.darpa.mil/program/science-of-artificial-intelligence-and-learning-for-open-world-novelty){:target="\_blank"} (open-world AI agents), [KMASS](https://www.darpa.mil/program/knowledge-management-at-scale-and-speed){:target="\_blank"} (knowledge management) and [EMHAT](https://www.darpa.mil/program/exploratory-moldels-of-human-ai-teams){:target="\_blank"} (human-ai multi-agent collaboration teams). 
-Previously, I have also worked as an applied scientist intern at Amazon Alexa research on language model quantization and compression techniques.
-
-My Ph.D. at ASU, was oriented towards designing Human-Aware AI techniques using Automated Task Planning for collaboration in Human-Robot teams and was advised by [Prof. Subbarao Kambhampati](https://rakaposhi.eas.asu.edu){:target="\_blank"}.
-
-I did my Masters at ASU, advised by [Prof. Kurt VanLehn](https://www.public.asu.edu/~kvanlehn/){:target="\_blank"}, on modeling student's knowledge while working on Intelligent Tutoring System.
+I am a Post-Doctoral Researcher at [Interactive Robotics Laboratory](https://interactive-robotics.engineering.asu.edu/){:target="\_blank"}, [Arizona State University (ASU)](https://scai.engineering.asu.edu/){:target="\_blank"} working with [Prof. Heni Ben Amor](https://henibenamor.weebly.com/){:target="\_blank"}.
+Before this, was a Research Scientist at [PARC](https://www.sri.com/research/future-concepts-division/){:target="\_blank"}, part of SRI International (prior Xerox PARC).
+I earned my Ph.D. from [Yochan Lab](https://yochan-lab.github.io/home/){:target="\_blank"} under the supervision of [Prof. Subbarao Kambhampati](https://rakaposhi.eas.asu.edu){:target="\_blank"} at ASU.
+During my Ph.D., I did summer internship as an Applied Scientist Intern in Alexa at Amazon, Pittsburgh (2018 and 2021).
 
 :point_right: Currently, I am looking for **full-time opportunities** in research and engineering roles.
 
-:mailbox_with_mail: sachin . grover @ asu . edu (remove spaces)
+:mailbox_with_mail: sachin . grover @ asu . edu
 
-**Research Interest**: LLM Agents, Learning+Planning systems, Neurosymbolic techniques.
+**Research Interest**: LLM Reasoning and Agents, Learning+Planning systems, Neurosymbolic techniques.
 
 ##### Research
 
-My research focuses on designing human-aware techniques and systems utilizing recent improvements in LLMs, planning techniques, and other learning methods.
-I am also interested in solving real-world complex problems and creating interpretable systems that provide explanations with guarantees utilizing machine learning and AI-planning techniques.
-My work in the past has been published in refereed journals (AIJ, HCI, IEEE, Taylor & Francis, etc.) and several peer-reviewed conferences (International Conference of Automated Planning and Scheduling _ICAPS_, Human-Robot Interaction _HRI_, AI & Education _AIED_, Naturalistic Decision Making _NDM_, etc.) and workshops (Knowledge Engineering for Planning and Scheduling _ICAPS KEPS_, Explainability and AI _ICAPS XAIP_, ML for Public Health _NEURIPS MLPH_), etc. A list of my publications can be checked below.
+I am interested in LLM based reasoning and agent behavior, with a focus on enhancing their capabilities through both pre-training and post-training techniques.
+With over a decade of research experience in automated reasoning and planning, I have worked on learning-based methods such as Reinforcement Learning (RL) and formal, symbolic approaches including Automated Task Planning.
+My long-term goal is to develop neuro-symbolic agents that are both data-efficient and capable of operating in dynamic environments with minimal human supervision. These agents will integrate the generalization abilities of LLMs with the structure and reliability of symbolic reasoning, enabling robust decision-making and adaptation in real-world settings.
