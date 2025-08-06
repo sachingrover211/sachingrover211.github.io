@@ -1,6 +1,6 @@
 #### Personal Webiste
 
-This is the personal website of [Sachin Grover](sachingrover.github.io)
+This is the personal website of [Sachin Grover](https://sachingrover211.github.io)
 
 Originally it was been made using [v0.3.8](https://github.com/alshedivat/al-folio/releases/tag/v0.3.8) of [al-folio](https://github.com/alshedivat/al-folio) theme.
 

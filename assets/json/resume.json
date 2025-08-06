@@ -1,32 +1,32 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sachin Grover",
+    "label": "Research Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sachin.grover@asu.edu",
+    "phone": "(480) 295-2278",
+    "url": "https://sachingrover211.github.io",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Tempe",
       "countryCode": "US",
-      "region": "California"
+      "region": "Arizona (AZ)"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "sachingrover",
+        "url": "https://twitter.com/sachingrover211"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
+      "name": "Interactive Robotics Lab, Arizona State University",
+      "position": "Post-Doctoral Researcher",
+      "url": "",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
@@ -47,15 +47,26 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Arizona State University",
+      "location": "Tempe, AZ",
+      "url": "https://yochan-lab.github.io/",
+      "area": "Artificial Intelligence, Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2016-01-16",
+      "endDate": "2022-07-18",
+      "score": "4.0",
+      "courses": ["Automated Task Planning", "Human Aware AI"]
+    },
+    {
+      "institution": "Arizona State University",
+      "location": "Tempe, AZ",
+      "url": "https://yochan-lab.github.io/",
+      "area": "Artificial Intelligence, Computer Science",
+      "studyType": "MS",
+      "startDate": "2013-08-22",
+      "endDate": "2015-11-13",
+      "score": "3.71",
+      "courses": ["Human Behavior Modeling", "Intelligent Tutoring Systems"]
     }
   ],
   "awards": [
