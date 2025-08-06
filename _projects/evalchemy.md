@@ -1,6 +1,6 @@
 ---
 title: Evalchemy — One-stop Evaluations for LLMs
-description: Designed a one-stop shop for evaluating LLMs with more 30 different benchmarks for several down-stream tasks such as coding, reasoning on maths problems, instruction following etc. It is build on top LM-Eval-Harness.
+description: ["Designed a one-stop shop for evaluating LLMs with more 30 different benchmarks for several down-stream tasks such as coding, reasoning on maths problems, instruction following etc. It is build on top LM-Eval-Harness."]
 img: assets/img/evalchemy_results.png
 importance: 2
 category: completed

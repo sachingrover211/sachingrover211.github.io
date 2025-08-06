@@ -10,7 +10,7 @@
     {% assign sorted_projects = categorized_projects | sort: "importance" %}
     <div class="row row-cols-1">
         {%for project in sorted_projects%}
-            {% include projects_2.liquid %}
+            {% include project_detail.liquid %}
         {% endfor %}
     </div>
     {% endfor %}
