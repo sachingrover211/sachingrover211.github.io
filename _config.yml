@@ -184,7 +184,7 @@ collections:
     output: false
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 announcements:
@@ -623,11 +623,11 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
+  #- projects
+  #- volunteer
+  #- awards
+  #- certificates
   - skills
   - languages
-  - interests
-  - references
+  #- interests
+  #- references
