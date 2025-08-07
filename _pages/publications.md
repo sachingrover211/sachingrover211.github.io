@@ -5,7 +5,7 @@ title: publications
 description: Peer Reviewed Work.
 nav: false
 nav_order: 2
-categories: [journal,conference,misc,thesis]
+categories: [journal, conference, misc, thesis]
 ---
 
 <!-- _pages/publications.md -->

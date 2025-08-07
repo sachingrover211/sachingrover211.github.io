@@ -1,17 +1,17 @@
 <!-- projects.md -->
-{% assign all_categories = "on-going,completed"%}
+{% assign all_categories = 'on-going,completed' %}
 <div class="projects">
-    {% assign categories = all_categories | split: "," %}
-    {% for category in categories %}
+  {% assign categories = all_categories | split: ',' %}
+  {% for category in categories %}
     <a id="{{ category }}" href=".#{{ category }}">
-        <h2 class="category">{{ category }}</h2>
+      <h2 class="category">{{ category }}</h2>
     </a>
-    {% assign categorized_projects = site.projects | where: "category", category %}
-    {% assign sorted_projects = categorized_projects | sort: "importance" %}
+    {% assign categorized_projects = site.projects | where: 'category', category %}
+    {% assign sorted_projects = categorized_projects | sort: 'importance' %}
     <div class="row row-cols-1">
-        {%for project in sorted_projects%}
-            {% include project_detail.liquid %}
-        {% endfor %}
+      {% for project in sorted_projects %}
+        {% include project_detail.liquid %}
+      {% endfor %}
     </div>
-    {% endfor %}
+  {% endfor %}
 </div>

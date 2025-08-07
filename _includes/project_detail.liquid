@@ -21,9 +21,13 @@
           <div class="publications">
             <h5 class="card-subtitle">Relevant Papers</h5>
             {% for paper in project.papers %}
-              <div class="paper"><div class="paper-icon"><div class="icon icon-spacing"><i class="fa fa-arrow-right"></i></div></div> {% reference paper %}</div>
+              <div class="paper">
+                <div class="paper-icon">
+                  <div class="icon icon-spacing"><i class="fa fa-arrow-right"></i></div>
+                </div>
+                {% reference paper %}
+              </div>
             {% endfor %}
-
           </div>
         {% endif %}
         <div class="row ml-1 mr-1 p-0">
@@ -43,7 +47,7 @@
           {% if project.website %}
             <div class="website-icon">
               <div class="icon icon-spacing" data-toggle="tooltip" title="Project Website">
-                <a href = {{ project.website }}><i class="fa fa-link"></i></a>
+                <a href="{{ project.website }}"><i class="fa fa-link"></i></a>
               </div>
             </div>
           {% endif %}
