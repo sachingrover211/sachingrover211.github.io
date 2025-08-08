@@ -7,17 +7,18 @@ video: assets/video/props_banner.mp4
 img: assets/img/props_banner.gif
 importance: 1
 category: on-going
-papers: [props]
+papers: 
+  - props
 related_publications: true
 github:
   - https://github.com/yfzhoucs/llm-rl/
   - https://github.com/sachingrover211/llm-rl_finetune/
 website:
   - https://props-llm.github.io
-github-tooltip:
+github_tooltip:
   - LLM RL
   - LLM RL & Finetune
-website-tooltip:
+website_tooltip:
   - Project summary and findings
 thumbnail: LLMs Generated Parameterized Policies
 ---

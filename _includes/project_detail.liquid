@@ -1,6 +1,6 @@
 <div class="col">
   <div class="row d-flex align-items-center">
-    <div class="col-3">
+    <div class="col-4">
       {% if project.video %}
         {%
           include video.liquid
@@ -22,9 +22,9 @@
         %}
       {% endif %}
     </div>
-    <div class="col-9">
+    <div class="col-8">
       <div class="card-body">
-        <h2 class="card-title">{{ project.title }}</h2>
+        <h4 class="card-title">{{ project.title }}</h4>
         {% for description in project.description %}
           <p class="card-text">{{ description }}</p>
         {% endfor %}
@@ -44,9 +44,9 @@
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}
             {% for github in project.github %}
-              {% assign tooltip = {{ project.github_tooltip[forloop.index] }} | default: "Code Repository" %}
+              {% assign tooltip = "Code Repository" %}
               <div class="github-icon">
-                <div class="icon icon-spacing" data-toggle="tooltip" title="{{ tooltip }}">
+                <div class="icon icon-spacing" data-toggle="tooltip" title="{{ project.github_tooltip[forloop.index0] | default: tooltip }}">
                   <a href="{{ github }}"><i class="fa-brands fa-github gh-icon"></i></a>
                 </div>
                 {% if project.github_stars %}
@@ -60,9 +60,9 @@
           {% endif %}
           {% if project.website %}
             {% for website in project.website %}
-              {% assign tooltip = {{ project.website_tooltip[forloop.index] }} | default: "Project Website" %}
+              {% assign tooltip = "Project Website" %}
               <div class="website-icon">
-                <div class="icon icon-spacing" data-toggle="tooltip" title="{{ tooltip }}">
+                <div class="icon icon-spacing" data-toggle="tooltip" title="{{ project.website_tooltip[forloop.index0] | default: tooltip }}">
                   <a href="{{ project.website }}"><i class="fa fa-link"></i></a>
                 </div>
               </div>

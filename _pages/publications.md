@@ -20,7 +20,7 @@ categories:
     {% assign display_name = "other venues" %}
   {% endif %}
   <h2 class="bibliography">{{ display_name }}</h2>
-  {% bibliography --query @*[type={{ category }}] %}
+  {% bibliography --query @*[category={{ category }}] %}
 {% endfor%}
 
 </div>
