@@ -150,17 +150,6 @@
       ]
     },
     {
-      "name": "Frameworks",
-      "level": "",
-      "icon": "",
-      "keywords":[
-        "Pytorch (Expert)",
-        "HuggingFace (Intermediate)",
-        "Tensorflow (Intermediate)",
-        "PDDL (Expert)"
-      ]
-    },
-    {
       "name": "APIs",
       "level": "",
       "icon": "",
@@ -175,6 +164,17 @@
         "Matplotlib",
         "Pillow",
         "OpenCV"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "icon": "",
+      "keywords":[
+        "Pytorch (Expert)",
+        "HuggingFace (Intermediate)",
+        "Tensorflow (Intermediate)",
+        "PDDL (Expert)"
       ]
     }
   ],
