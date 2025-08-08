@@ -40,7 +40,6 @@
       "endDate": "2024-06",
       "summary": "Designed a digital twin using LLMs to play the game called Pandemic. Worked on Open-World AI (SAIL-ON), and knowledge management at scale (KMASS) programs from DARPA.",
       "highlights": ["LLM Agents", "Open world AI", "PDDL Planning", "Knowledge Representation"]
-
     },
     {
       "name": "Alexa NLP Team, Amazon",
@@ -123,59 +122,27 @@
       "courses": ["Human Behavior Modeling", "Intelligent Tutoring Systems"]
     }
   ],
-  "awards": [
-  ],
-  "certificates": [
-  ],
-  "publications": [
-  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
       "name": "Relevant Programming Languages",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Python",
-        "JacaScript (React and Dojo)",
-        "Java (J2SE, J2EE)",
-        "PHP",
-        "HTML",
-        "CSS",
-        "MySQL",
-        "Latex",
-        "Matlab",
-        "R",
-        "C",
-        "C++"
-      ]
+      "keywords": ["Python", "JacaScript (React and Dojo)", "Java (J2SE, J2EE)", "PHP", "HTML", "CSS", "MySQL", "Latex", "Matlab", "R", "C", "C++"]
     },
     {
       "name": "APIs",
       "level": "",
       "icon": "",
-      "keywords": [
-        "NumPy",
-        "SciPy",
-        "Pandas",
-        "Scikit-learn",
-        "FastAPI",
-        "StreamLit",
-        "XGBoost",
-        "Matplotlib",
-        "Pillow",
-        "OpenCV"
-      ]
+      "keywords": ["NumPy", "SciPy", "Pandas", "Scikit-learn", "FastAPI", "StreamLit", "XGBoost", "Matplotlib", "Pillow", "OpenCV"]
     },
     {
       "name": "Frameworks",
       "level": "",
       "icon": "",
-      "keywords":[
-        "Pytorch (Expert)",
-        "HuggingFace (Intermediate)",
-        "Tensorflow (Intermediate)",
-        "PDDL (Expert)"
-      ]
+      "keywords": ["Pytorch (Expert)", "HuggingFace (Intermediate)", "Tensorflow (Intermediate)", "PDDL (Expert)"]
     }
   ],
   "languages": [
@@ -190,10 +157,7 @@
       "icon": ""
     }
   ],
-  "interests": [
-  ],
-  "references": [
-  ],
-  "projects": [
-  ]
+  "interests": [],
+  "references": [],
+  "projects": []
 }

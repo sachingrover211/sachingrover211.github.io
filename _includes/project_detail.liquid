@@ -46,7 +46,7 @@
             {% for github in project.github %}
               {% assign tooltip = {{ project.github_tooltip[forloop.index] }} | default: "Code Repository" %}
               <div class="github-icon">
-                <div class="icon icon-spacing" data-toggle="tooltip" title={{ tooltip }}>
+                <div class="icon icon-spacing" data-toggle="tooltip" title="{{ tooltip }}">
                   <a href="{{ github }}"><i class="fa-brands fa-github gh-icon"></i></a>
                 </div>
                 {% if project.github_stars %}
@@ -61,12 +61,12 @@
           {% if project.website %}
             {% for website in project.website %}
               {% assign tooltip = {{ project.website_tooltip[forloop.index] }} | default: "Project Website" %}
-                <div class="website-icon">
-                  <div class="icon icon-spacing" data-toggle="tooltip" title={{ tooltip }}>
-                    <a href="{{ project.website }}"><i class="fa fa-link"></i></a>
-                  </div>
+              <div class="website-icon">
+                <div class="icon icon-spacing" data-toggle="tooltip" title="{{ tooltip }}">
+                  <a href="{{ project.website }}"><i class="fa fa-link"></i></a>
                 </div>
-              {% endfor %}
+              </div>
+            {% endfor %}
           {% endif %}
         </div>
       </div>
