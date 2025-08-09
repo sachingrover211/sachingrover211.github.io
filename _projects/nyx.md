@@ -2,7 +2,7 @@
 title: Nyx PDDL+ Planner
 description:
   - PDDL+ is a modeling language that can model discrete/continuous hybrid systems with exogenous events. Nyx is a planner over the most expressive modeling language that uses time discretization defined for the task, and creates a plan executable when the actions can be executed.
-img: assets/img/openthoughts_aime.jpg
+video: assets/video/nyx_results.mp4
 importance: 5
 category: completed
 papers: 
