@@ -6,7 +6,7 @@ description:
 video: assets/video/hydra_icaps_demo.mp4
 importance: 4
 category: completed
-papers: 
+papers:
   - mohan2024domain
   - piotrowski2024self
   - piotrowski2024adaptive

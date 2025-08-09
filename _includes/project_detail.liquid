@@ -44,7 +44,7 @@
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}
             {% for github in project.github %}
-              {% assign tooltip = "Code Repository" %}
+              {% assign tooltip = 'Code Repository' %}
               <div class="github-icon">
                 <div class="icon icon-spacing" data-toggle="tooltip" title="{{ project.github_tooltip[forloop.index0] | default: tooltip }}">
                   <a href="{{ github }}"><i class="fa-brands fa-github gh-icon"></i></a>
@@ -60,7 +60,7 @@
           {% endif %}
           {% if project.website %}
             {% for website in project.website %}
-              {% assign tooltip = "Project Website" %}
+              {% assign tooltip = 'Project Website' %}
               <div class="website-icon">
                 <div class="icon icon-spacing" data-toggle="tooltip" title="{{ project.website_tooltip[forloop.index0] | default: tooltip }}">
                   <a href="{{ project.website }}"><i class="fa fa-link"></i></a>

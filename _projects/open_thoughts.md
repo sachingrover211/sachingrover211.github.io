@@ -5,7 +5,7 @@ description:
 img: assets/img/openthoughts_aime.jpg
 importance: 1
 category: completed
-papers: 
+papers:
   - guha2025openthoughts
 related_publications: true
 github:

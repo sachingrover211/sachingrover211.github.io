@@ -5,7 +5,7 @@ description:
 video: assets/video/nyx_results.mp4
 importance: 5
 category: completed
-papers: 
+papers:
   - piotrowski2024nyx
 related_publications: true
 github:

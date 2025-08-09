@@ -5,7 +5,7 @@ description:
 video: assets/video/nlu_llm_demo.mp4
 importance: 3
 category: completed
-papers: 
+papers:
   - grover2024demo
 related_publications: true
 website:

@@ -7,7 +7,7 @@ video: assets/video/props_banner.mp4
 img: assets/img/props_banner.gif
 importance: 1
 category: on-going
-papers: 
+papers:
   - props
 related_publications: true
 github:
