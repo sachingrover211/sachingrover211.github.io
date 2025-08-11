@@ -11,7 +11,7 @@ papers:
   - props
 related_publications: true
 github:
-  - https://github.com/yfzhoucs/llm-rl/
+  - https://github.com/yfzhoucs/props-llm
   - https://github.com/sachingrover211/llm-rl_finetune/
 website:
   - https://props-llm.github.io
