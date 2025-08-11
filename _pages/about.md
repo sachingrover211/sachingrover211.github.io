@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Post-Doctoral Researcher at [Interactive Robotics Laboratory](https://interactive-robotics.engineering.asu.edu/){:target="\_blank"}, [Arizona State University (ASU)](https://scai.engineering.asu.edu/){:target="\_blank"} working with [Prof. Heni Ben Amor](https://henibenamor.weebly.com/){:target="\_blank"}, working at the intersection of LLM and Robotics.
+I am a Post-Doctoral Researcher at [Interactive Robotics Laboratory](https://interactive-robotics.engineering.asu.edu/){:target="\_blank"}, [Arizona State University (ASU)](https://scai.engineering.asu.edu/){:target="\_blank"} working with [Prof. Heni Ben Amor](https://henibenamor.weebly.com/){:target="\_blank"}, at the intersection of LLM and Robotics.
 Before this, was a Research Scientist at [PARC](https://www.sri.com/research/future-concepts-division/){:target="\_blank"}, part of SRI International (prior Xerox PARC).
 I earned my Ph.D. from [Yochan Lab](https://yochan-lab.github.io/home/){:target="\_blank"} under the supervision of [Prof. Subbarao Kambhampati](https://rakaposhi.eas.asu.edu){:target="\_blank"} at ASU.
 During my Ph.D., I did summer internship as an Applied Scientist Intern in Alexa at Amazon, Pittsburgh (2018 and 2021).
